@@ -1,0 +1,82 @@
+<svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000"/>
+      <stop offset="30%" style="stop-color:#1a0005"/>
+      <stop offset="60%" style="stop-color:#CC1C1C"/>
+      <stop offset="100%" style="stop-color:#FFD700"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFD700"/>
+      <stop offset="50%" style="stop-color:#FFA500"/>
+      <stop offset="100%" style="stop-color:#FFD700"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="textglow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="250" fill="url(#bg)"/>
+
+  <!-- Dark overlay for depth -->
+  <rect width="900" height="250" fill="rgba(0,0,0,0.45)"/>
+
+  <!-- Top decorative border -->
+  <rect x="0" y="0" width="900" height="4" fill="url(#gold)"/>
+
+  <!-- Bottom wave shape -->
+  <path d="M0 200 Q150 170 300 195 Q450 220 600 190 Q750 160 900 185 L900 250 L0 250 Z" fill="rgba(0,0,0,0.5)"/>
+
+  <!-- Decorative corner anchors -->
+  <text x="28" y="42" font-size="28" fill="#FFD700" filter="url(#glow)" opacity="0.8">⚓</text>
+  <text x="844" y="42" font-size="28" fill="#FFD700" filter="url(#glow)" opacity="0.8">⚓</text>
+  <text x="28" y="228" font-size="22" fill="#FFD700" filter="url(#glow)" opacity="0.6">⚓</text>
+  <text x="848" y="228" font-size="22" fill="#FFD700" filter="url(#glow)" opacity="0.6">⚓</text>
+
+  <!-- Side decorative lines -->
+  <line x1="70" y1="20" x2="70" y2="230" stroke="#FFD700" stroke-width="1" opacity="0.15"/>
+  <line x1="830" y1="20" x2="830" y2="230" stroke="#FFD700" stroke-width="1" opacity="0.15"/>
+
+  <!-- Scattered stars background -->
+  <circle cx="120" cy="55" r="1.5" fill="#FFD700" opacity="0.6"/>
+  <circle cx="200" cy="30" r="1" fill="white" opacity="0.5"/>
+  <circle cx="350" cy="45" r="1.5" fill="#FFD700" opacity="0.4"/>
+  <circle cx="500" cy="25" r="1" fill="white" opacity="0.6"/>
+  <circle cx="650" cy="50" r="1.5" fill="#FFD700" opacity="0.5"/>
+  <circle cx="780" cy="35" r="1" fill="white" opacity="0.4"/>
+  <circle cx="160" cy="200" r="1" fill="#FFD700" opacity="0.3"/>
+  <circle cx="740" cy="210" r="1.5" fill="#FFD700" opacity="0.3"/>
+
+  <!-- WANTED banner strip -->
+  <rect x="270" y="18" width="360" height="28" rx="3" fill="rgba(204,28,28,0.85)" stroke="#FFD700" stroke-width="1.5"/>
+  <text x="450" y="38" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#FFD700" text-anchor="middle" letter-spacing="6">★ WANTED : DEAD OR ALIVE ★</text>
+
+  <!-- Main name — HARI SELVAM -->
+  <text x="450" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="900" fill="url(#gold)" text-anchor="middle" letter-spacing="8" filter="url(#textglow)">HARI SELVAM</text>
+
+  <!-- Underline decoration -->
+  <line x1="180" y1="132" x2="720" y2="132" stroke="url(#gold)" stroke-width="2" opacity="0.7"/>
+  <line x1="240" y1="138" x2="660" y2="138" stroke="#CC1C1C" stroke-width="1" opacity="0.5"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="170" font-family="Georgia, serif" font-size="14" fill="#FFF8DC" text-anchor="middle" letter-spacing="3" opacity="0.9">⚓  Electronics &amp; Communication Engineer  |  Full Stack Dev  |  AI Explorer  ⚓</text>
+
+  <!-- Bottom tagline -->
+  <text x="450" y="210" font-family="Georgia, serif" font-size="12" fill="#FFD700" text-anchor="middle" letter-spacing="2" opacity="0.75">— CLASS OF 2028  ·  TAMIL NADU, INDIA  ·  THE GRAND LINE ENGINEER —</text>
+
+  <!-- Bottom border -->
+  <rect x="0" y="246" width="900" height="4" fill="url(#gold)"/>
+</svg>
