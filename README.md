@@ -27,14 +27,14 @@
 ---
 
 ## ⚓ The Pirate's Log
-
+<div align="center">
 ```
  ___   ___   ___   ___   ___   ___   ___   ___   ___   ___ 
 |   | |   | |   | |   | |   | |   | |   | |   | |   | |   |
 | H | | A | | R | | I | | S | | E | | L | | V | | A | | M |
 |___| |___| |___| |___| |___| |___| |___| |___| |___| |___|
 ```
-
+</div>
 <div align="center">
 
 > *"Like an explorer chasing new horizons — I sail the Grand Line of technology,*  
