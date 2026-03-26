@@ -59,20 +59,20 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║              ★ ★ ★   WANTED  —  DEAD OR ALIVE   ★ ★ ★               ║
+║              ★ ★ ★   WANTED  —  DEAD OR ALIVE   ★ ★ ★              ║
 ║                                                                       ║
 ║   PIRATE NAME :  Hari Selvam                                          ║
 ║   ALIAS       :  "The Grand Line Engineer"                            ║
 ║   CREW        :  Full Stack Pirates                                   ║
-║   VESSEL      :  S.V.C.E. — Class of 2028                            ║
-║   HOME SEA    :  Tamil Nadu, India  🇮🇳                               ║
-║   DEVIL FRUIT :  Nomi Nomi no Mi  (The Knowledge Fruit)              ║
-║   BOUNTY      :  ฿  ∞  BERRY  (Uncountable)                         ║
+║   VESSEL      :  S.V.C.E. — Class of 2028                             ║
+║   HOME SEA    :  Trichy, Tamil Nadu, India  🇮🇳                        ║
+║   DEVIL FRUIT :  Nomi Nomi no Mi  (The Knowledge Fruit)               ║
+║   BOUNTY      :  ฿  ∞  BERRY  (Uncountable)                           ║
 ║                                                                       ║
-║   CRIME  :  Building legendary software, training AI models,         ║
+║   CRIME  :  Building legendary software, training AI models,          ║
 ║             mastering ECE, and inspiring future engineers.            ║
 ║                                                                       ║
-║         ★ ★ ★   APPROACH WITH EXTREME CAUTION   ★ ★ ★               ║
+║         ★ ★ ★   APPROACH WITH EXTREME CAUTION   ★ ★ ★              ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -255,21 +255,21 @@ Full desktop ERP with multi-role auth, QR ID cards, attendance, fee receipts, PD
                          ★ START ★
                             │
               ╔═════════════╧═════════════╗
-              ║  ⚓  EAST BLUE — 2022     ║
+              ║  ⚓  EAST BLUE — 2022    ║
               ║  SSLC · Class X           ║
               ║  Sowdaambikaa Matric HSS  ║
               ║  Trichy                   ║
               ╚═════════════╤═════════════╝
                             │  ~~~waves~~~
               ╔═════════════╧═════════════╗
-              ║  🌊 CALM BELT — 2024      ║
+              ║  🌊 CALM BELT — 2024     ║
               ║  HSE · Class XII          ║
               ║  Sowdaambikaa Matric HSS  ║
               ║  Trichy                   ║
               ╚═════════════╤═════════════╝
                             │  ~~~GRAND LINE~~~
               ╔═════════════╧═════════════╗
-              ║  🏴‍☠️ GRAND LINE — 2024–28  ║  ◄── YOU ARE HERE
+              ║  🏴‍☠️ GRAND LINE — 2024–28 ║  ◄── YOU ARE HERE
               ║  B.E. ECE                 ║
               ║  Sri Venkateshwara COE    ║
               ║  Sriperumbudur            ║
@@ -329,10 +329,10 @@ Full desktop ERP with multi-role auth, QR ID cards, attendance, fee receipts, PD
 
 ```
   ╔══════════════════════════════════════════════════════════════════╗
-  ║  "Inherited Will. The Destiny of the Age. The Dreams of the     ║
-  ║   People. These are things that will not be stopped. As long    ║
-  ║   as people continue to pursue the meaning of Freedom —         ║
-  ║   these things will never cease to be!"   — Gol D. Roger       ║
+  ║  "Inherited Will. The Destiny of the Age. The Dreams of the      ║
+  ║   People. These are things that will not be stopped. As long     ║
+  ║   as people continue to pursue the meaning of Freedom —          ║
+  ║   these things will never cease to be!"   — Gol D. Roger         ║
   ╚══════════════════════════════════════════════════════════════════╝
 ```
 
